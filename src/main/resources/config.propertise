@@ -1,0 +1,11 @@
+pachong.base=https://so.gushiwen.org
+pachong.path=/gushi/tangshi.aspx
+pachong.detail=false
+
+
+db.username=root
+db.password=root
+db.url=jdbc:mysql://localhost:3306/tangshi
+db.driver_class=com.mysql.jdbc.Driver
+
+config.enable_Console=true
